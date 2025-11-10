@@ -1,0 +1,29 @@
+market_id,market_title,outcome_id,outcome_label,net_shares,fills,avg_fill_price
+0xc4aff606746768e734dff7518007649aab49534ef319b67d698651f607f5c01f,Ethereum Up or Down on November 6?,1,Down,299.22,586,0.5126962457337861
+0x269464da8b881d8a3c5fb94c117d03d37289b1ffe8ddd735d1db0c94bbdebb60,"Will the price of Ethereum be above $3,300 on November 6?",1,No,2885.65615,49,0.14299999920515208
+0x641bbe7ba6991994ebb7b5547a2c12aef141b0ee765f03c5c23a2376ed1a0638,Bitcoin Up or Down on November 6?,1,Down,7489.729999999999,1717,0.563313919627249
+0xd5103253cd89a4c7736a573735007595445133bcf128bb3463b0a877ec2da575,"Will the price of Bitcoin be between $104,000 and $106,000 on November 6?",1,No,-9344.0,90,0.7176666666666663
+0xd5103253cd89a4c7736a573735007595445133bcf128bb3463b0a877ec2da575,"Will the price of Bitcoin be between $104,000 and $106,000 on November 6?",YES,Yes,494.0,29,0.2593103448275861
+0x0235509e1c8869f6c35d3c5886b2ed2a872044aa2804e5c21b0ac57c3afe305e,"Will the price of Bitcoin be above $104,000 on November 6?",1,No,-586.9899999999989,625,0.5935840000000016
+0x26be063cf8a542bf6644fbb89ba1850ac8f8c96d3e9aef63a51342863d13207a,"Will the price of Bitcoin be above $102,000 on November 6?",1,No,5112.284279,424,0.18771181316172217
+0x4f8eb37fd1057d474372c104f77eaea2605e5ab4bd0eaf4f55f8addfe613c34b,Will the price of Solana be above $160 on November 6?,1,No,-64.66278499999999,55,0.5330719529229158
+0xb6e8abc8b662afa2c4f9d08f1556a87a841d6c8007964fa8b6eaac874e512f78,"Will the price of Bitcoin be between $102,000 and $104,000 on November 6?",1,No,2908.1316410000004,371,0.5032156254999582
+0x342ad48a617ec076cbe6ab2a19417a0db4a63ae825c1b39b08f55a6fb58c4870,Will the price of Solana be above $170 on November 6?,1,No,436.95,5,0.9874
+0x3bfbf308f81fc74ca3324db8e9d867bd7b6d780dc3155572a0e4bfe799046025,"Will the price of Ethereum be above $3,400 on November 6?",YES,Yes,45.0,2,0.5055
+0xc799f4890ae9aa4de643092ccc51b54a9d336ef5a711ad0f4f7d60ff23d2757f,"Will the price of Ethereum be between $3,300 and $3,400 on November 6?",1,No,554.379169,155,0.6543567786630478
+0xc4aff606746768e734dff7518007649aab49534ef319b67d698651f607f5c01f,Ethereum Up or Down on November 6?,UP,Up,0.4800000000000182,81,0.28555555555555556
+0x3bfbf308f81fc74ca3324db8e9d867bd7b6d780dc3155572a0e4bfe799046025,"Will the price of Ethereum be above $3,400 on November 6?",1,No,-766.9362070000001,146,0.39271517157851865
+0x9e71f262c9abe3bfe0e221e0c5b7253f53a237f51b069d4b2003404748cc6b77,"Will the price of Bitcoin be between $100,000 and $102,000 on November 6?",YES,Yes,12651.678356000002,231,0.14339621565617433
+0xeb7ec577e481bf0cb3435fe68a305ce38601feec0803c15fde46cd54653de1bb,"Will the price of Ethereum be between $3,400 and $3,500 on November 6?",YES,Yes,125.0,4,0.32825
+0xeb7ec577e481bf0cb3435fe68a305ce38601feec0803c15fde46cd54653de1bb,"Will the price of Ethereum be between $3,400 and $3,500 on November 6?",1,No,202.31,39,0.5545897435897436
+0x26be063cf8a542bf6644fbb89ba1850ac8f8c96d3e9aef63a51342863d13207a,"Will the price of Bitcoin be above $102,000 on November 6?",YES,Yes,10249.836432,62,0.798532258041386
+0xb6e8abc8b662afa2c4f9d08f1556a87a841d6c8007964fa8b6eaac874e512f78,"Will the price of Bitcoin be between $102,000 and $104,000 on November 6?",YES,Yes,0.015872000000001663,16,0.5054374961950491
+0x269464da8b881d8a3c5fb94c117d03d37289b1ffe8ddd735d1db0c94bbdebb60,"Will the price of Ethereum be above $3,300 on November 6?",YES,Yes,0.5,1,0.89
+0x078dce10d2e69854c0b57f0e738e3e0af6b8db67bf531a84d18e2af9cc00b4b4,"Will the price of Ethereum be less than $3,300 on November 6?",YES,Yes,184.74019400000003,56,0.13162499517302256
+0x0235509e1c8869f6c35d3c5886b2ed2a872044aa2804e5c21b0ac57c3afe305e,"Will the price of Bitcoin be above $104,000 on November 6?",YES,Yes,-15.5,24,0.48500000000000015
+0xea92da3e5bea95d90ac2ad84f99e14c1bc5fd4d4390e3a5101dd6f9d107d67bc,"Will the price of Ethereum be above $3,500 on November 6?",1,No,4385.0,98,0.805204081632653
+0xa61cbd43662ce3ee14879e0af5bbd8be992de63df880ea6daa73b788c67a8374,"Will the price of Ethereum be above $3,600 on November 6?",YES,Yes,-124.0,2,0.0055
+0x0c827b1b0c832debe2b9b2e23b34fd924de503b5bbbddddb773d37bdb4e64ebf,"Will the price of Ethereum be between $3,500 and $3,600 on November 6?",YES,Yes,-60.0,52,0.16701923076923078
+0xc799f4890ae9aa4de643092ccc51b54a9d336ef5a711ad0f4f7d60ff23d2757f,"Will the price of Ethereum be between $3,300 and $3,400 on November 6?",YES,Yes,0.0,32,0.26500000000000007
+0x0c827b1b0c832debe2b9b2e23b34fd924de503b5bbbddddb773d37bdb4e64ebf,"Will the price of Ethereum be between $3,500 and $3,600 on November 6?",1,No,0.0,32,0.8495000000000003
+0xcbb7c7f51ecd7f6d67ca277fb8d7471583c48c1fe2469e4d36485a9a65dfad5f,"Will the price of Bitcoin be above $106,000 on November 6?",1,No,400.0,16,0.9000000000000002
